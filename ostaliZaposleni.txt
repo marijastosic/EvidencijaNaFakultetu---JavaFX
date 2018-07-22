@@ -1,0 +1,20 @@
+Milos Mitrovic
+1231231231444
+Studentska sluzba
+47000.0
+6.0
+Petar Petrovic
+2321456328961
+Studentska sluzba
+30000.0
+2.0
+Jovana Mitrovic
+7896541236547
+Pravna sluzba
+50000.0
+1.0
+Dejan Jovic
+5463214589632
+IT sluzba
+70000.0
+3.0

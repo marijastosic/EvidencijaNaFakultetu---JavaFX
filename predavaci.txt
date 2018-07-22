@@ -1,0 +1,15 @@
+Jovana Petrovic
+1231231231231
+Asistent
+50000.0
+5.0
+Mihailo Peric
+1236547896547
+Redovni profesor
+100000.0
+10.0
+Jelena Petrovic
+1457852312456
+Redovni profesor
+50000.0
+3.0
